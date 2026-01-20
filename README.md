@@ -4,6 +4,8 @@ A modern, responsive, and performance-optimized personal portfolio website built
 
 ## 🚀 Live Demo
 
+https://renjithb0124.github.io/personal-website/
+
 ## ✨ Features
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop using Bootstrap 5.
 - **Dark/Light Mode**: Toggle between sleek dark and premium light themes.
